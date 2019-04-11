@@ -1,3 +1,4 @@
 Manifest-Version: 1.0
 Created-By: deppeler
-Main-Class: Main.Main
+Main-Class: application.Main
+
